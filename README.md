@@ -29,7 +29,7 @@ This project allows users to add, complete, delete, and filter tasks, while savi
 ---
 
 ## 📸 Screenshot
-![To-Do App Screenshot](https://opengraph.githubassets.com/1/YOUR-USERNAME/todo-app)
+![To-Do App Screenshot](https://opengraph.githubassets.com/1/montesinodev/todo-app)
 
 
 ---
