@@ -38,12 +38,13 @@ This project allows users to add, complete, delete, and filter tasks, while savi
 1. Clone this repository:
    ```bash
    git clone https://github.com/montesinodev/todo-app.git
-```
+   
 2. Open the folder and double-click index.html in your browser.
 
-👨‍💻 Author
+---
 
-Marlon Montesino
-Frontend Developer | Passionate about building clean and interactive web applications
-🔗 [Portfolio] (https://montesinodev.github.io/my-portfolio/) 
- | [LinkedIn] (https://www.linkedin.com/in/marlon-m-324a70147/)
+## 👨‍💻 Author
+**Marlon Montesino** - 
+**Frontend Developer | Passionate about building clean and interactive web applications**  
+**🔗** [Portfolio](https://montesinodev.github.io/my-portfolio/) 
+ **|** [LinkedIn](https://www.linkedin.com/in/marlon-m-324a70147/)
