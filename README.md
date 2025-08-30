@@ -16,8 +16,8 @@ This project allows users to add, complete, delete, and filter tasks, while savi
 ---
 
 ## 🎨 Demo
-👉 **Live Demo:** [Click here](https://YOUR-USERNAME.github.io/todo-app/)  
-👉 **Source Code:** [GitHub Repo](https://github.com/YOUR-USERNAME/todo-app)
+👉 **Live Demo:** [Click here](https://montesinodev.github.io/todo-app/)  
+👉 **Source Code:** [GitHub Repo](https://github.com/montesinodev/todo-app)
 
 ---
 
@@ -29,16 +29,15 @@ This project allows users to add, complete, delete, and filter tasks, while savi
 ---
 
 ## 📸 Screenshot
-![To-Do App Screenshot](screenshot.png)
+![To-Do App Screenshot](/images/screenshot.png)
 
-*(Replace `screenshot.png` with the actual filename of your screenshot saved in the repo.)*
 
 ---
 
 ## 📂 How to Run Locally
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/todo-app.git
+   git clone https://github.com/montesinodev/todo-app.git
 ```
 2. Open the folder and double-click index.html in your browser.
 
